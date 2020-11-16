@@ -12,7 +12,7 @@ If you make it through all of the questions in the list above, do the following 
 
 - Make a fork of this repo
 - Take a screenshot of the todo percentage on Leetcode for this list of questions showing that you have solved all of the questions.
-- On your fork add your name and github handle as a string to the completionists JSON file (I.e. "Your name - yourgithubhandle")
+- On your fork add your name and github handle as a string to the `completionists.json` file (I.e. "Your name - yourgithubhandle")
 - Push your local fork up to your remote fork and submit a pull request to the main repo
 - On your pull request add the photo of your 100% finished list to the comments of the Pull Request (PR's without photo will not be added to the doc)
 - Submit the PR
