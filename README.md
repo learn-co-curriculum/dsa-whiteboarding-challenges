@@ -1,23 +1,28 @@
 # Data Structures & Algorithms
 
-This is a complement to the post work material and should be used as such, listed here are a collection of additonal readings and questions to further your learning of Data Sturctures and Algorithms.
+In this lesson is a collection of additonal readings and questions to further your learning of Data Sturctures and Algorithms.
 
 These resources are widely available online and have been collected here to make it easier to study and to help narrow down what you should start working on.
 
 There are over 100 questions in this [List](https://leetcode.com/list/5r99deem) for you to practice 
 
-If you make it through all of the questions do the following to get added to the completionists!
-- make a fork of this repo
-- take a screenshot of the todo percentage on Leetcode for this list of questions showing that you have solved all of the questions.
-- on your fork add your name and github handle to the completionists doc
-- push your local fork up to your remote fork and submit a pull request to the main repo
-- on your pull request add the photo of your 100% finished list to the comments of the Pull Request (PR's without photo will not be added to the doc)
+## The Completionist Challenge
+
+If you make it through all of the questions in the list above, do the following to get added to the list of [completionists](https://learn-co-curriculum.github.io/dsa-whiteboarding-challenges/)!
+
+- Make a fork of this repo
+- Take a screenshot of the todo percentage on Leetcode for this list of questions showing that you have solved all of the questions.
+- On your fork add your name and github handle as a string to the completionists JSON file (I.e. "Your name - yourgithubhandle")
+- Push your local fork up to your remote fork and submit a pull request to the main repo
+- On your pull request add the photo of your 100% finished list to the comments of the Pull Request (PR's without photo will not be added to the doc)
 - Submit the PR
 
 ## Whiteboarding Workshop
-In this Whiteboarding Workshop you will learn the best practices for preparing for a technical interview with tips for both remote and in person interviews.
+
+In this Whiteboarding Workshop, you will learn the best practices for preparing for a technical interview with tips for both remote and in person interviews.
 
 By the end of the workshop you will understand:
+
 - What to expect in a Whiteboard interview?
 - You will learn the general format of the whiteboard interview.
 Some typical Data Structures, Algorithms ,and concepts you might encounter
